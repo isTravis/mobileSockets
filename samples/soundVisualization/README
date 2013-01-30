@@ -1,0 +1,5 @@
+Note, the visualization needs some work. The input values need to be better shaped and perhaps filtered. The result of the current setup is that the visualization looks laggy.
+
+To run:
+1. Load Android app onto phone
+2. Execute, "./server.py in browser folder

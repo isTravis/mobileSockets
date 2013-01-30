@@ -1,0 +1,2 @@
+The browserside project runs on Tornado (http://www.tornadoweb.org/). Please follow installation instructions given on the site to run the browser-side code. The mobile side has currently only explored Android apps.
+

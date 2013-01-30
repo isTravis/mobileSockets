@@ -1,0 +1,4 @@
+To run:
+
+1. Execute, "./server.py 
+2. Navigate to localhost:port, where port is defined on line 17 in the server.py file
